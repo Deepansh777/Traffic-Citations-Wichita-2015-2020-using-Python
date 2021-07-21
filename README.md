@@ -1,5 +1,23 @@
 # Traffic-Citations-Wichita-2015-2020
 
+For this project, the data was taken from [ICT OpenData Portal](https://ict-opendata-cityofwichita.hub.arcgis.com/search?q=citations). 
+
+ #   Column              Non-Null Count   Dtype  
+---  ------              --------------   -----  
+ 0   CITATION_NUMBER     390064 non-null  object 
+ 1   CITATION_DATE_TIME  390064 non-null  object 
+ 2   FILED_DATE          389821 non-null  object 
+ 3   CASE_NUMBER         390064 non-null  object 
+ 4   DEFENDANT_AGE       336094 non-null  float64
+ 5   CITATION_LOCATION   384039 non-null  object 
+ 6   CITATION_ZIP        383483 non-null  float64
+ 7   VEHICLE_MAKE        382019 non-null  object 
+ 8   VEHICLE_COLOR       321458 non-null  object 
+ 9   ACTUAL_SPEED        136436 non-null  float64
+ 10  POSTED_SPEED        136436 non-null  float64
+ 11  CHARGE_DESCRIPTION  390064 non-null  object 
+ 12  CHARGE_DISPOSITION  345002 non-null  object 
+ 13  VEHICLE_TOP_COLOR   58238 non-null   object 
 
 ## Conclusion
 
