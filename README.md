@@ -16,4 +16,4 @@
 - Talking about the different violations and their disposition, it was found that most of the accused drivers were found guilty for the citations related to wearing seat belts and driving on expired/fraud/canceled licences. Most of the cases were eventually dismissed for the citations related to "NO PROOF OF INSURANCE".
 - In the double-layered donut chart, we see the top 5 hours of the day of each of the top 4 locations where the maximum number of citations were issued. It is very prominent that most number of citations were issued on 455 N Main Street at 9 AM. The most intriguing part is that the top 5 times for E 13th Street N and E Harry Street is the same. For E KELLOGG DR, E 13TH ST N, and E HARRY ST, it appears that most of the citations were issued in the evening.
 
-**-- Deepansh Arora**
+**- Deepansh Arora**
