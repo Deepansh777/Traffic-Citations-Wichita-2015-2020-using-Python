@@ -1,6 +1,6 @@
 # Traffic-Citations-Wichita-2015-2020
 
-For this project, the data was taken from [ICT OpenData Portal](https://ict-opendata-cityofwichita.hub.arcgis.com/search?q=citations). The traffic citation data used in this analysis includes all records for 2015-2020. Data Exploration was performed on the dataset to understand the patterns. 
+For this project, the data was taken from [ICT OpenData Portal](https://ict-opendata-cityofwichita.hub.arcgis.com/search?q=citations). The traffic citation data used in this analysis includes all records for 2015-2020. Python based Exploratory Data Analysis was performed on the dataset to understand the trend.
 
 ## Conclusion
 
